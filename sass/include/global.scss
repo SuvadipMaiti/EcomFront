@@ -1,0 +1,12 @@
+/* global classes */
+
+// remove button blue border.
+a {
+    text-decoration: none
+}
+
+button,
+button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
